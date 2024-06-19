@@ -6,7 +6,7 @@ Dự án “Sữa cho Mẹ và Bé” là một nền tảng thương mại đi�
 
 ### Hình ảnh cửa hàng của chúng tôi:
 
-![Store Image](https://drive.google.com/file/d/1EUdOpCydfTScQbgOnW55LZCI-mTmPICJ/view?usp=sharing)
+<img width="959" alt="milk" src="https://github.com/dungpham-npc/N5_JS1802_Milkstore/assets/168702939/2d2bd632-f584-4484-a483-16ac402d7eb5">
 
 
 ## Tính Năng
