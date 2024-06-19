@@ -6,7 +6,7 @@ Dự án “Sữa cho Mẹ và Bé” là một nền tảng thương mại đi�
 
 ### Hình ảnh cửa hàng của chúng tôi:
 
-![Store Image]()
+![Store Image](https://drive.google.com/file/d/1EUdOpCydfTScQbgOnW55LZCI-mTmPICJ/view?usp=sharing)
 
 
 ## Tính Năng
