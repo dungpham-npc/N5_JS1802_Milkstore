@@ -57,23 +57,20 @@ Dự án “Sữa cho Mẹ và Bé” là một nền tảng thương mại đi�
 
 | Sprint | User Story ID |
 | ------ | ------------- |
-| 1      | US-45, US-19, US-61, US-44, US-51, US-51, US-39          |
-|       |          |
-|       |          |
-|       |          |
-|       |          |
-|       |          |
-|       |          |
+| 1      | US-45, US-19, US-61, US-44, US-51, US-54, US-39, US-23, US-24          |
+| 2      | US-62, US-50, US-63, US-20, US-21, US-22, US-26, US-34, US-40, US-41, US-42, US-43, US-55, US-57, US-58, US-59, US-60, US-28, US-32, US-56        |
+| 3      | US-52, US-31, US-53, US-65, US-25, US-27, US-29, US-30, US-33, US-46, US-47, US-48, US-49         |
+| 4      | US-35, US-36, US-37, US-38         |
 
 ## Bảng Phân công member
 
-| Member            | User Story                |
-| ----------------- | ------------------------- |
-| Hoàng Hải Hậu     | US-45, US-44              |
-| Phạm Anh Dũng     | US-51, US-54              |
-| Nguyễn Văn Hữu Hiền | US-39                  |
-| Nguyễn Đình Bảo   | US-19                     |
-| Ngô Doãn Đạt      | US-61                     |
+| **Sprint**        | Member            | User Story                |
+| 1                  | ----------------- | ------------------------- |
+                    | Hoàng Hải Hậu     | US-45, US-44              |
+                    | Phạm Anh Dũng     | US-51, US-54              |
+                    | Nguyễn Văn Hữu Hiền | US-39                  |
+                    | Nguyễn Đình Bảo   | US-19                     |
+                    | Ngô Doãn Đạt      | US-61                     |
 
 ## Liên hệ
 
