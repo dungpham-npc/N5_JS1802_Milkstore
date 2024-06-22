@@ -55,15 +55,15 @@ Dự án “Sữa cho Mẹ và Bé” là một nền tảng thương mại đi�
 
 ## Bảng US của từng Sprint 1, Sprint 2, Sprint 3, Spring 4
 
-| Sprint | User Story ID | User Story Description |
-| ------ | ------------- | ---------------------- |
-| 1      | US-45         | As a Post Staff, I want to edit and update existing store posts, so that I can maintain accurate and relevant information |
-| 1      | US-19         | As a Guest, I want to register to the web so that I can have access to various functions of it for further decisions |
-| 1      | US-61         | As a User, I want to login to my account, so that I can access member-specific features and manage my account information |
-| 1      | US-44         | As a Post Staff, I want to create informative and engaging posts for the store, so that I can educate and connect with customers on topics related to pregnancy, motherhood, and baby care |
-| 1      | US-51         | As an Admin, I want to create new staff accounts with specific roles and permissions, so that I can assign appropriate levels of access and functionality based on staff responsibilities |
-| 1      | US-54         | As an Admin, I want to prohibit user accounts that violate terms of service, so that I can uphold the store's policies and maintain the integrity of the system |
-| 1      | US-39         | As a Product Staff, I want to create new product listings in the store, so that I can expand the product catalog and cater to diverse customer needs |
+| Sprint | User Story ID |
+| ------ | ------------- |
+| 1      | US-45, US-19, US-61, US-44, US-51, US-51, US-39          |
+|       |          |
+|       |          |
+|       |          |
+|       |          |
+|       |          |
+|       |          |
 
 ## Bảng Phân công member
 
