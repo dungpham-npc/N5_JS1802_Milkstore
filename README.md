@@ -53,7 +53,7 @@ Dự án “Sữa cho Mẹ và Bé” là một nền tảng thương mại đi�
 | Front end, Back end, Tester, Environment Setup | Phạm Anh Dũng       | dungpase183097@fpt.edu.vn  |
 | Tester                         | Ngô Doãn Đạt           | datndse171873@fpt.edu.vn    |
 
-## Bảng US của từng Sprint 1, Sprint 2, Sprint 3, Spring 4
+## Bảng US của từng Sprint 1, Sprint 2, Sprint 3, Sprint 4
 
 | Sprint | User Story ID |
 | ------ | ------------- |
