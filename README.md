@@ -71,6 +71,12 @@ Dự án “Sữa cho Mẹ và Bé” là một nền tảng thương mại đi�
 |                    | Nguyễn Văn Hữu Hiền | US-39                  |
 |                    | Nguyễn Đình Bảo   | US-19                     |
 |                    | Ngô Doãn Đạt      | US-61                     |
+| ----------------- | ----------------- | ------------------------- |
+| 2                 | Hoàng Hải Hậu     | US-43                      |
+|                    | Phạm Anh Dũng     | US-40                     |
+|                    | Nguyễn Văn Hữu Hiền | US-42                   |
+|                    | Nguyễn Đình Bảo   | US-62                     |
+|                    | Ngô Doãn Đạt      | ????                      |
 
 ## Liên hệ
 
