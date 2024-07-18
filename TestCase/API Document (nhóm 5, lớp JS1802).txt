@@ -1,0 +1,8 @@
+										API Document (nhóm 5, lớp JS1802)
+Link test các API của project Postman của nhóm 5 môn SWT301, lớp JS1802: 
+
+- Link 1 gồm các main flow về Add To Cart, VNPay, Product Category, Product Staff, Order, Feedback
+	https://documenter.getpostman.com/view/34259176/2sA3kSo3ZH
+	
+- Link 2 gồm các Secondary Flow về Admin + User Account flows
+	https://documenter.getpostman.com/view/34777799/2sA3kSoNtL
